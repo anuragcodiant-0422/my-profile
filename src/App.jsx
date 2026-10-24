@@ -165,12 +165,12 @@ function App() {
       <main>
         <section className="hero section-wrap" id="home">
           <div className="hero-copy">
-            <h1>Hi, I&apos;m <span>Anurag</span></h1>
+            <h1>Hi, I&apos;m <span>Anurag Bagdi</span></h1>
             <h2 className="hero-role">Full Stack Developer</h2>
             <p className="hero-description">
               I build reliable web applications and thoughtful digital
-              experiences. With 3.5+ years of experience, I work across Laravel,
-              modern frontend frameworks, APIs, and real-time features.
+              experiences. With 3.5+ years of experience, I work across Laravel, Node.js, Python, and
+              modern frontend frameworks like React and Vue, APIs, and real-time features.
             </p>
             <div className="hero-actions">
               <a className="button button-primary" href="mailto:anuragbagdi6635@gmail.com">
